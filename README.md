@@ -1,0 +1,2 @@
+# -Calories-Burnt-Prediction-using-Machine-Learning-XGBoost-
+) 📊 Project Overview  This project focuses on building an end-to-end machine learning regression model to accurately predict calories burned during exercise using physiological and activity-related features. The complete workflow includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
